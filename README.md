@@ -1,7 +1,7 @@
 # About Me
 👋 Hi, I’m Jaqi Gates.
 
-I've been working in the legal field for the past 6 years. I plan to utilize the skills and strengths I've gained from my previous work experience, such as logic, problem solving, and attention to detail, to thrive in my career as a full-stack web developer. I'm currently pursuing a Nanodegree in Programming with Udacity which has been a fantastic resource in learning HTML5, CSS, JavaScript, Git, BASH/Shell, and Python3. I'm excited to continue honing my skills and look forward to showing people what I can accomplish.
+I've been working in the legal field for the past 6 years. I plan to utilize the skills and strengths I've gained from my previous work experience, such as logic, problem solving, and attention to detail, to thrive in my career as a full-stack software developer. I'm currently pursuing a Nanodegree in Programming with Udacity which has been a fantastic resource in learning HTML5, CSS, JavaScript, Git, BASH/Shell, and Python3. I'm excited to continue honing my skills and look forward to showing people what I can accomplish.
 
 ### I’m interested in ...
 - Soaking up as much knowledge as possible.
