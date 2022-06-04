@@ -19,7 +19,8 @@ I've been working in the legal field for the past 6 years. I plan to utilize the
 - Anything that will help me practice my JavaScript skills.
 
 ### How to reach me ...
-- My [LinkedIn](https://www.linkedin.com/in/jaqi-gates/). 📨
+- My [LinkedIn](https://www.linkedin.com/in/jaqi-gates/).
+- My [website](https://jaqigates.com/).
 
 <!---
 JaqiGates/JaqiGates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
